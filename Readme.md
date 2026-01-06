@@ -2,6 +2,7 @@
 
 * Студент: [Пархоменко Александр](https://htmlacademy.ru/profile/alexzchs).
 * Наставник: `Неизвестно`.
+* Сайт: [проект Седона](https://alexzhs.github.io/sedona/).
 
 ---
 
